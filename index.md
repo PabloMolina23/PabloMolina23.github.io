@@ -1,7 +1,7 @@
 <!-- ![Image](Foto.jpg)
 -->
 
-# Pablo Molina Pèrez 
+# Pablo Molina Pérez 
 
 ## Tutoriales
 ### Python
