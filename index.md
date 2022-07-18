@@ -1,7 +1,7 @@
 # Pablo Molina Pérez 
 
 ## Artículos
-### Creacion de DNS
+### Creación de DNS
   - [Creación de Dns en ubuntu](https://pablomolina23.github.io/DnsUbuntu.md)
   
 
